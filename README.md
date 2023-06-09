@@ -3,7 +3,7 @@
   Dicey is a Flutter app that simulates rolling dice. With just a tap of a button, you can roll a virtual dice and get a random number between 1 and 6.
 
 ## Dicey Screenshot
-  ![Dicey App Screenshot](/path/to/screenshot.png)
+  ![Dicey App Screenshot](/assets/Dicey_AppScreenshot.png)
 ## Features
   - Roll a virtual dice with a single button tap.
   - Get a random number between 1 and 6, simulating the outcome of rolling a real dice.
