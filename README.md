@@ -25,7 +25,9 @@
        documentation or installation instructions.
   
    4. Run the app on your preferred emulator or connected device using the following command:
-  ```
-   flutter run
-
-### Thank you for using Dicey! Happy rolling!
+    
+    flutter run
+  
+  
+  ### Thank you for using Dicey! Happy rolling!
+    
