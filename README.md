@@ -16,7 +16,7 @@
   1. Clone this repository to your local machine using the following command:
     
    ```bash
-   git clone https://github.com/your-username/dicey.git
+   git clone https://github.com/Emissary-Of-Desolation/dicey.git
    ```
   2. Change into the project directory:
   
